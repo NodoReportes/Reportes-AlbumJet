@@ -1,2 +1,2 @@
-# Reportes-Nodo
-Subir reportes de estudio de Nodo
+# Reportes-Estudios
+Subir reportes de estudio
